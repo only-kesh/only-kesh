@@ -1,16 +1,16 @@
- <h1 align="center">Hey there, I'm Keshani Anuththara ✨</h1>
+ <h1 align="center">Hey there, I'm Keshani Anuththara 💙</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF70A6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+💻;Full-Stack+Web+Developer+🚀;Aspiring+QA+%26+Software+Tester+🧪;Passionate+About+Clean+Code+%26+Quality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+💻;Full-Stack+Web+Developer+🚀;Aspiring+QA+%26+Software+Tester+🧪;Passionate+About+Clean+Code+%26+Quality+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=only-kesh&color=ff70a6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=only-kesh&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌸 About Me
+### 🔹 About Me
 
 - 🎓 Undergraduate pursuing **BSc in Software Engineering**
 - 💡 Interested in **Full-Stack Web Development** & **Software Quality Assurance (QA)**
@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=only-kesh&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=only-kesh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Quality is not an act, it is a habit." ✨</i>
+  <i>"Quality is not an act, it is a habit." 💎</i>
 </p>
