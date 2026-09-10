@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+💻;Full-Stack+Web+Developer+🚀;Aspiring+QA+%26+Software+Tester+🧪;Passionate+About+Clean+Code+%26+Quality+✨" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=only-kesh&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🔹 About Me
@@ -37,11 +33,11 @@
 
 ---
 
- ### 📊 GitHub Stats
+### 📈 Contribution Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-kesh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Full%20Stack-00B4D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Quality-High_Standards-0077B6?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
