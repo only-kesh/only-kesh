@@ -37,11 +37,11 @@
 
 ---
 
-### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=only-kesh&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-kesh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
