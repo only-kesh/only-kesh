@@ -1,115 +1,70 @@
- 
+ <!-- Header Section -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Hey%20there,%20I'm%20Keshani%20Anuththara%20💙&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
+</div>
 
-# 👋 Hey there, I'm Keshani Anuththara 💙
+### 🎓 **Software Engineering Student**
 
-### 💻 Software Engineering Student
+I'm a passionate and dedicated undergraduate pursuing BSc in Software Engineering. I love building web applications, exploring new technologies, and turning ideas into real solutions. Currently, I'm focused on improving my skills, contributing to open source, and growing as a full-stack developer.
 
-**✨ Code Today, Better Tomorrow 💜**
+📬 **Connect with me:**
+📧 `keshani@example.com` | 📍 Sri Lanka | 🔗 [LinkedIn](https://linkedin.com) | 🐙 [GitHub](https://github.com/only-kesh)
+
+---
+
+### `</>` Tech Stack & Tools
 
 <p>
-  Passionate about Full-Stack Development, Software Quality Assurance,
-  and creating beautiful, reliable web applications.
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-🌱 Always learning • 🚀 Always building • 💙 Always growing
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,python,js,mongodb,html,css,java,spring,mysql" alt="Development technologies"/>
-
-### Testing & Version Control
-
-<img src="https://skillicons.dev/icons?i=postman,selenium,git,github" alt="Testing and version control tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### 📦 Stock-Management
-
-A stock management project for organizing inventory and managing stock records.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-[🔗 View Repository](https://github.com/only-kesh/Stock-Management)
-
-</td>
-<td width="33%" valign="top">
-
-### 💌 LoveMessage
-
-A sweet interactive heart animation page with custom messages.
-
-**Technologies**
-
-`JavaScript` `HTML` `CSS`
-
-[🔗 View Repository](https://github.com/only-kesh/LoveMessage)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎓 Student Dashboard
-
-A responsive student dashboard built with Spring Boot and Thymeleaf.
-
-**Technologies**
-
-`Java` `Spring Boot` `Thymeleaf`
-
-[🔗 View Repository](https://github.com/only-kesh/student-dashboard-springboot)
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Stock-Management</h3>
+      <p>A full-featured stock management system with CRUD operations, search, reports and user-friendly interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+      </p>
+      <a href="https://github.com/only-kesh/Stock-Management">View Repository ➔</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>LoveMessage</h3>
+      <p>A sweet interactive heart animation page with custom messages.</p>
+      <br />
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
+      </p>
+      <a href="https://github.com/only-kesh/LoveMessage">View Repository ➔</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>student-dashboard-springboot</h3>
+      <p>Responsive student dashboard web application with Spring Boot, Thymeleaf, and Bootstrap.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square" />
+      </p>
+      <a href="https://github.com/only-kesh/student-dashboard-springboot">View Repository ➔</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-kesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used languages"/>
-
-</div>
-
----
-
-## 💙 About Me
-
-- 🎓 Undergraduate pursuing a BSc in Software Engineering
-- 💻 Interested in Full-Stack Web Development
-- 🧪 Exploring Software Testing and Automation
-- 🎨 Love clean UI/UX and creative web designs
-- 🌱 Continuously learning new technologies
-
----
-
-<div align="center">
-
-### 🌱 Always learning, always building 💙
-
-*Thanks for visiting my GitHub profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:6D28D9&height=120&section=footer" width="100%" alt="Blue and purple footer"/>
-
-</div>
+🌱 **Always learning, always building 💙**
