@@ -1,84 +1,115 @@
- <!-- Header Section -->
-<div align="left">
-  <h1>👋 Hey there, I'm <br> <span style="color: #ffffff;">Keshani</span> <span style="color: #9b51e0;">Anuththara</span> 💙</h1>
-  <h3 style="color: #2f80ed;">Software Engineering Student</h3>
-  
-  <p>
-    I'm a passionate and dedicated undergraduate pursuing BSc in Software Engineering. I love building web applications, exploring new technologies, and turning ideas into real solutions. Currently, I'm focused on improving my skills, contributing to open source, and growing as a full-stack developer.
-  </p>
+ 
+<div align="center">
 
-  <p>
-    📧 <b>keshani@example.com</b> &nbsp;|&nbsp; 
-    📍 <b>Sri Lanka</b> &nbsp;|&nbsp; 
-    🔗 <a href="https://linkedin.com"><b>LinkedIn</b></a> &nbsp;|&nbsp; 
-    🐙 <a href="https://github.com/only-kesh"><b>GitHub</b></a>
-  </p>
-</div>
+# 👋 Hey there, I'm Keshani Anuththara 💙
 
-<br>
+### 💻 Software Engineering Student
 
-<!-- Tech Stack & Tools -->
-## `</>` Tech Stack & Tools
+**✨ Code Today, Better Tomorrow 💜**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  Passionate about Full-Stack Development, Software Quality Assurance,
+  and creating beautiful, reliable web applications.
 </p>
 
-<br>
+🌱 Always learning • 🚀 Always building • 💙 Always growing
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <!-- Project 1 -->
-    <td width="33%" valign="top">
-      <h3>Stock-Management</h3>
-      <p>A full-featured stock management system with CRUD operations, search, reports and user-friendly interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
-      </p>
-      <a href="https://github.com/only-kesh/Stock-Management">🐙 View Repository →</a>
-    </td>
-
-    <!-- Project 2 -->
-    <td width="33%" valign="top">
-      <h3>LoveMessage</h3>
-      <p>A sweet interactive heart animation page with custom messages.</p>
-      <br>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-      </p>
-      <a href="https://github.com/only-kesh/LoveMessage">🐙 View Repository →</a>
-    </td>
-
-    <!-- Project 3 -->
-    <td width="33%" valign="top">
-      <h3>student-dashboard-springboot</h3>
-      <p>Responsive student dashboard web application with Spring Boot, Thymeleaf, and Bootstrap.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square" />
-      </p>
-      <a href="https://github.com/only-kesh/student-dashboard-springboot">🐙 View Repository →</a>
-    </td>
-  </tr>
-</table>
-
-<br>
+</div>
 
 ---
 
-🌱 **Always learning, always building 💙**
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,python,js,mongodb,html,css,java,spring,mysql" alt="Development technologies"/>
+
+### Testing & Version Control
+
+<img src="https://skillicons.dev/icons?i=postman,selenium,git,github" alt="Testing and version control tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📦 Stock-Management
+
+A stock management project for organizing inventory and managing stock records.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 View Repository](https://github.com/only-kesh/Stock-Management)
+
+</td>
+<td width="33%" valign="top">
+
+### 💌 LoveMessage
+
+A sweet interactive heart animation page with custom messages.
+
+**Technologies**
+
+`JavaScript` `HTML` `CSS`
+
+[🔗 View Repository](https://github.com/only-kesh/LoveMessage)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Student Dashboard
+
+A responsive student dashboard built with Spring Boot and Thymeleaf.
+
+**Technologies**
+
+`Java` `Spring Boot` `Thymeleaf`
+
+[🔗 View Repository](https://github.com/only-kesh/student-dashboard-springboot)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=only-kesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-kesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used languages"/>
+
+</div>
+
+---
+
+## 💙 About Me
+
+- 🎓 Undergraduate pursuing a BSc in Software Engineering
+- 💻 Interested in Full-Stack Web Development
+- 🧪 Exploring Software Testing and Automation
+- 🎨 Love clean UI/UX and creative web designs
+- 🌱 Continuously learning new technologies
+
+---
+
+<div align="center">
+
+### 🌱 Always learning, always building 💙
+
+*Thanks for visiting my GitHub profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:6D28D9&height=120&section=footer" width="100%" alt="Blue and purple footer"/>
+
+</div>
