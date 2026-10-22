@@ -1,13 +1,16 @@
- <!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Hey%20there,%20I'm%20Keshani%20Anuththara%20💙&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
+ <div align="center">
+  <!-- Banner Header Image with Gradient Design -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Hey%20there,%20I'm&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
+
+<!-- Main Name Heading with Styled Text -->
+# 👋 Hey there, I'm <br> <span style="font-size: 2.2em; font-weight: bold;">Keshani <span style="color: #6C5CE7;">Anuththara</span> 💙</span>
 
 ### 🎓 **Software Engineering Student**
 
 I'm a passionate and dedicated undergraduate pursuing BSc in Software Engineering. I love building web applications, exploring new technologies, and turning ideas into real solutions. Currently, I'm focused on improving my skills, contributing to open source, and growing as a full-stack developer.
 
-📬 **Connect with me:**
+📬 **Connect with me:**  
 📧 `keshani@example.com` | 📍 Sri Lanka | 🔗 [LinkedIn](https://linkedin.com) | 🐙 [GitHub](https://github.com/only-kesh)
 
 ---
@@ -47,24 +50,4 @@ I'm a passionate and dedicated undergraduate pursuing BSc in Software Engineerin
       <br />
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-      </p>
-      <a href="https://github.com/only-kesh/LoveMessage">View Repository ➔</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>student-dashboard-springboot</h3>
-      <p>Responsive student dashboard web application with Spring Boot, Thymeleaf, and Bootstrap.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square" />
-      </p>
-      <a href="https://github.com/only-kesh/student-dashboard-springboot">View Repository ➔</a>
-    </td>
-  </tr>
-</table>
-
----
-
-🌱 **Always learning, always building 💙**
+        <img src="
